@@ -46,3 +46,10 @@ Make sure to change the currency code and the number of last quotations (max 255
 Using this URL will give the value of the difference between the buy and ask rate for every day within the amount of days chosen when 
 sending the request
 
+
+
+**FROM THE AUTHOR:
+Creating this application gave me a solid grasp of knowledge about building server applications. I was able to practice my Java skills and get to know with a framework
+that is commonly used in the IT industry - Spring Boot. It was also my first experience with working with an external API and I was able to learn about how to work
+with documentation, how to read, understand and apply it in practice. I was also able to work with postman and get to know better about this program.
+
